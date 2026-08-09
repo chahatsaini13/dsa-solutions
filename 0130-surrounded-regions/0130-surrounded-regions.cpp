@@ -28,7 +28,6 @@ public:
         int n = board.size();
         int m = board[0].size();
 
-        // Top and bottom rows
         for(int j = 0; j < m; j++){
             if(board[0][j] == 'O'){
                 dfs(board, n, m, 0, j);
@@ -39,7 +38,6 @@ public:
             }
         }
 
-        // Left and right columns
         for(int i = 0; i < n; i++){
             if(board[i][0] == 'O'){
                 dfs(board, n, m, i, 0);
@@ -50,7 +48,6 @@ public:
             }
         }
 
-        // Convert
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
 
