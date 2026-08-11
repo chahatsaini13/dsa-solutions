@@ -39,6 +39,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -46,6 +47,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -74,4 +77,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
