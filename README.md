@@ -10,6 +10,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -43,6 +44,7 @@
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -52,6 +54,7 @@
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -61,6 +64,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -68,6 +72,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -88,6 +93,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -97,10 +103,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
@@ -119,4 +127,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
