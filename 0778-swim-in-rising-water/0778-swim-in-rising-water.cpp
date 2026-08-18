@@ -1,69 +1,84 @@
 class Solution {
 public:
-    bool valid(int r, int c, int n) {
-        if(r < 0 || c < 0 || r >= n || c >= n) {
+    int max_of(vector<vector<int>>& grid, int n, int m){
+        int maxi = 0;
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                maxi = max(maxi, grid[i][j]);
+            }
+        }
+
+        return maxi;
+    }
+
+    bool isvalid(int r, int c, int n, int m) {
+        if(r < 0 || c < 0 || r >= n || c >= m){
             return false;
         }
 
         return true;
     }
 
-    int swimInWater(vector<vector<int>>& grid) {
-
-        int n = grid.size();
-
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-
-        priority_queue<
-            pair<int, pair<int,int>>,
-            vector<pair<int, pair<int,int>>>,
-            greater<pair<int, pair<int,int>>>
-        > pq;
-
+    bool bfs(vector<vector<int>>& grid, int n, int m, int g){
         int x[4] = {1, -1, 0, 0};
         int y[4] = {0, 0, 1, -1};
 
-        dist[0][0] = grid[0][0];
+        queue<pair<int, int>> q;
+        vector<vector<int>> vis(n);
+        
+        for(int i = 0;  i < n; i++){
+            vector<int> t(m, 0);
+            vis[i] = t;
+        }
 
-        pq.push({grid[0][0], {0, 0}});
+        q.push({0,0});
+        vis[0][0] = 1;
 
-        while(!pq.empty()) {
+        while(!q.empty()){
+            pair<int, int> p = q.front();
+            q.pop();
 
-            auto p = pq.top();
-            pq.pop();
+            int row = p.first, col = p.second;
 
-            int time = p.first;
-            int row = p.second.first;
-            int col = p.second.second;
-
-            if(time > dist[row][col]) {
-                continue;
+            if(row == n-1 && col == m-1){
+                return true;
             }
 
-            if(row == n-1 && col == n-1) {
-                return time;
-            }
-
-            for(int k = 0; k < 4; k++) {
-
+            for(int k = 0; k < 4; k++){
                 int r = row + x[k];
                 int c = col + y[k];
 
-                if(!valid(r, c, n)) {
-                    continue;
-                }
-
-                int newTime = max(time, grid[r][c]);
-
-                if(newTime < dist[r][c]) {
-
-                    dist[r][c] = newTime;
-
-                    pq.push({newTime, {r, c}});
+                if(isvalid(r, c, n, m) && vis[r][c] == 0 && g >= grid[r][c]){
+                    q.push({r,c});
+                    vis[r][c] = 1;
                 }
             }
         }
 
-        return -1;
+        return false;;
+    }
+
+    int swimInWater(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m =  grid[0].size();
+
+        int low = grid[0][0];
+        int high = max_of(grid, n, m);
+        int res = 0;
+
+        while(low <= high){
+            int guess = (low + high) / 2;
+
+            if(bfs(grid, n, m, guess)){
+                res = guess;
+                high = guess - 1;
+            }else{
+                low = guess + 1;
+            }
+        }
+
+        return res;
+
     }
 };
