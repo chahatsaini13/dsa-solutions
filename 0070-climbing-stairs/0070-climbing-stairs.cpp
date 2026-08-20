@@ -4,10 +4,10 @@ public:
 
     int steps( int i, int n){
         if(i == n){
-            return 1;
+            return 1; // same step pr hi khade ho
         }
         else if(i > n){
-            return 0;
+            return 0; // jaha jaana hai woh curr se picche hai toh jaa hi nhi skte
         }
 
         if(dp.find(i) != dp.end()){
