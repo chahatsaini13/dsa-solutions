@@ -10,6 +10,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/chahatsaini13/dsa-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/chahatsaini13/dsa-solutions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## String
@@ -168,4 +170,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
