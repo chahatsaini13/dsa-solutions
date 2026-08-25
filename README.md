@@ -33,6 +33,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/chahatsaini13/dsa-solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chahatsaini13/dsa-solutions/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/chahatsaini13/dsa-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
