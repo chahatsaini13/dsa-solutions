@@ -11,6 +11,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/chahatsaini13/dsa-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/chahatsaini13/dsa-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
@@ -213,5 +214,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/chahatsaini13/dsa-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
