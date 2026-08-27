@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
+| [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
@@ -219,4 +221,12 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/chahatsaini13/dsa-solutions/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
