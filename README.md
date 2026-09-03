@@ -25,6 +25,7 @@
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0062-unique-paths](https://github.com/chahatsaini13/dsa-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
