@@ -26,6 +26,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [3903-smallest-stable-index-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
