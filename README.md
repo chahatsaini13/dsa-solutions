@@ -165,6 +165,7 @@
 | [0055-jump-game](https://github.com/chahatsaini13/dsa-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/chahatsaini13/dsa-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/chahatsaini13/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chahatsaini13/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -179,6 +180,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/chahatsaini13/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/1143-longest-common-subsequence) |
