@@ -46,12 +46,14 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/chahatsaini13/dsa-solutions/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chahatsaini13/dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/chahatsaini13/dsa-solutions/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chahatsaini13/dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chahatsaini13/dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
