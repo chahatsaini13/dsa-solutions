@@ -25,6 +25,7 @@
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -34,6 +35,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
