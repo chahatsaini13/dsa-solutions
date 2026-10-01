@@ -30,6 +30,7 @@
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/chahatsaini13/dsa-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [2187-minimum-time-to-complete-trips](https://github.com/chahatsaini13/dsa-solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -173,6 +174,7 @@
 | [0354-russian-doll-envelopes](https://github.com/chahatsaini13/dsa-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 ## Quicksort
 |  |
 | ------- |
@@ -273,10 +275,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 ## Enumeration
 |  |
 | ------- |
