@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/chahatsaini13/dsa-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -78,6 +79,7 @@
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
@@ -123,6 +126,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/chahatsaini13/dsa-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
