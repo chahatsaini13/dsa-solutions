@@ -21,6 +21,7 @@
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -68,6 +69,7 @@
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chahatsaini13/dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -81,6 +83,7 @@
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -91,6 +94,7 @@
 | [0547-number-of-provinces](https://github.com/chahatsaini13/dsa-solutions/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/chahatsaini13/dsa-solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -98,6 +102,7 @@
 | [0130-surrounded-regions](https://github.com/chahatsaini13/dsa-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
