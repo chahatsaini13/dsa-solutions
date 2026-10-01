@@ -203,6 +203,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/chahatsaini13/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
@@ -270,6 +271,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chahatsaini13/dsa-solutions/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
