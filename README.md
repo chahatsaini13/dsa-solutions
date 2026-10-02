@@ -26,6 +26,7 @@
 | [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/chahatsaini13/dsa-solutions/tree/master/1642-furthest-building-you-can-reach) |
@@ -222,6 +223,7 @@
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/chahatsaini13/dsa-solutions/tree/master/0836-rectangle-overlap) |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [3870-count-commas-in-range](https://github.com/chahatsaini13/dsa-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -306,4 +308,24 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chahatsaini13/dsa-solutions/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
