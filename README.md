@@ -41,6 +41,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/chahatsaini13/dsa-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/chahatsaini13/dsa-solutions/tree/master/0146-lru-cache) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -293,4 +294,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chahatsaini13/dsa-solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chahatsaini13/dsa-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chahatsaini13/dsa-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
