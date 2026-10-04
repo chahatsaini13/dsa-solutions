@@ -336,5 +336,6 @@
 | [0620-not-boring-movies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/chahatsaini13/dsa-solutions/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/chahatsaini13/dsa-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chahatsaini13/dsa-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
