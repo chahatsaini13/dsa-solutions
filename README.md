@@ -328,4 +328,8 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/chahatsaini13/dsa-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
