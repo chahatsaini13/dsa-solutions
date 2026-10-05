@@ -211,6 +211,7 @@
 | [0115-distinct-subsequences](https://github.com/chahatsaini13/dsa-solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/chahatsaini13/dsa-solutions/tree/master/0127-word-ladder) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/1143-longest-common-subsequence) |
 ## Bidirectional Search
 |  |
@@ -278,6 +279,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/chahatsaini13/dsa-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0856-score-of-parentheses) |
 | [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 ## Simulation
 |  |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/chahatsaini13/dsa-solutions/tree/master/0856-score-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
