@@ -340,6 +340,7 @@
 | [0620-not-boring-movies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/chahatsaini13/dsa-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1527-patients-with-a-condition](https://github.com/chahatsaini13/dsa-solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chahatsaini13/dsa-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/chahatsaini13/dsa-solutions/tree/master/1729-find-followers-count) |
