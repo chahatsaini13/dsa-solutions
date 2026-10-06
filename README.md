@@ -338,6 +338,7 @@
 | [0595-big-countries](https://github.com/chahatsaini13/dsa-solutions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/chahatsaini13/dsa-solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chahatsaini13/dsa-solutions/tree/master/1667-fix-names-in-a-table) |
