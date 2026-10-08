@@ -348,6 +348,7 @@
 | [1193-monthly-transactions-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/chahatsaini13/dsa-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/chahatsaini13/dsa-solutions/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/chahatsaini13/dsa-solutions/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/chahatsaini13/dsa-solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chahatsaini13/dsa-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/chahatsaini13/dsa-solutions/tree/master/1729-find-followers-count) |
