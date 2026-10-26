@@ -34,6 +34,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/chahatsaini13/dsa-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chahatsaini13/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/chahatsaini13/dsa-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -80,6 +81,7 @@
 | [1254-number-of-closed-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chahatsaini13/dsa-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +122,7 @@
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/chahatsaini13/dsa-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
