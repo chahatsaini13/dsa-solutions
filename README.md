@@ -21,6 +21,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/chahatsaini13/dsa-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/chahatsaini13/dsa-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/chahatsaini13/dsa-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/chahatsaini13/dsa-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2751-robot-collisions](https://github.com/chahatsaini13/dsa-solutions/tree/master/2751-robot-collisions) |
 ## Quicksort
@@ -232,6 +234,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/chahatsaini13/dsa-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chahatsaini13/dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chahatsaini13/dsa-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/chahatsaini13/dsa-solutions/tree/master/0836-rectangle-overlap) |
 | [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
