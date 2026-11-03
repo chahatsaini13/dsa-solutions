@@ -27,6 +27,7 @@
 | [0827-making-a-large-island](https://github.com/chahatsaini13/dsa-solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/chahatsaini13/dsa-solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/chahatsaini13/dsa-solutions/tree/master/0994-rotting-oranges) |
+| [1014-best-sightseeing-pair](https://github.com/chahatsaini13/dsa-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1250-check-if-it-is-a-good-array](https://github.com/chahatsaini13/dsa-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/chahatsaini13/dsa-solutions/tree/master/1254-number-of-closed-islands) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -214,6 +215,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/chahatsaini13/dsa-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/chahatsaini13/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chahatsaini13/dsa-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1014-best-sightseeing-pair](https://github.com/chahatsaini13/dsa-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/chahatsaini13/dsa-solutions/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/chahatsaini13/dsa-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## String
